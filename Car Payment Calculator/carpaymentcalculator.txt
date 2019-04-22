@@ -1,0 +1,31 @@
+# Beyond the Book
+
+# Car Payment Calculator
+ 
+
+# 1
+1a) Lines 10ish-15
+	double annualInterestRate, monthlyInterestRate, price, downPayment, tradein;
+	double principal, monthlyPayment, salesTaxRate, salesTax;
+	double numYears, numMonths;
+	double monthlyPrincipal, monthlyInterest, loanBalance;
+	// double and int operations can be inaccurate
+
+1b) Ran code, looked at output, deduced the logical error would a conflicting data type issue
+
+1c) changed int to double
+
+
+2a) Line 39
+	salesTax = price * (salesTaxRate / 100);             // Order of Operations PEMDAS
+
+2b) Ran code, looked at output, deduced the logical error would be the arithmitic since it was not syntax or a conflicting data type issue
+
+2c) 	// Order of Operations PEMDAS
+
+3a) Line 43
+	monthlyPayment = (principal * monthlyInterestRate) /( 1 - pow(1 + monthlyInterestRate, -numMonths));
+
+3b) Ran code, looked at output, deduced the logical error would be the arithmitic since it was not syntax or a conflicting data type issue
+
+3c) 	// Order of Operations PEMDAS

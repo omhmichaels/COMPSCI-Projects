@@ -1,0 +1,170 @@
+---------------------------------------------------------------
+
+--------THE GAME OF TIMS!--------------------------------------------------
+RULEZ:
+1)Player may take 1, 2, or 3 pairs of Tim's from the stolen truck during thier turn.
+2) The player who makes the last move loses.
+
+---------------------------------------------------------------
+
+Choose mode:
+Enter 1 for Easy Mode Enter
+Enter 2 for Hard Mode Enter :
+3
+LOADING:5%-
+LOADING:10%----
+LOADING:15%---------
+LOADING:20%-------------
+LOADING:25%----------------
+LOADING:30%-------------------
+LOADING:35%------------------------
+LOADING:40%---------------------------
+LOADING:45%------------------------------
+LOADING:50%---------------------------------
+LOADING:55%-------------------------------------
+LOADING:60%-----------------------------------------
+LOADING:65%--------------------------------------------
+LOADING:70%-----------------------------------------------
+LOADING:75%--------------------------------------------------
+LOADING:80%----------------------------------------------------
+LOADING:85%------------------------------------------------------
+LOADING:90%---------------------------------------------------------
+LOADING:95%-----------------------------------------------------------
+LOADING:100%----------------------------------------------------------------
+
+
+You have selected 3
+Please try again with a valid input---------------------------------------------------------------
+
+--------THE GAME OF TIMS!--------------------------------------------------
+RULEZ:
+1)Player may take 1, 2, or 3 pairs of Tim's from the stolen truck during thier turn.
+2) The player who makes the last move loses.
+
+---------------------------------------------------------------
+
+Choose mode:
+Enter 1 for Easy Mode Enter
+Enter 2 for Hard Mode Enter :
+2
+LOADING:5%-
+LOADING:10%----
+LOADING:15%---------
+LOADING:20%-------------
+LOADING:25%----------------
+LOADING:30%-------------------
+LOADING:35%------------------------
+LOADING:40%---------------------------
+LOADING:45%------------------------------
+LOADING:50%---------------------------------
+LOADING:55%-------------------------------------
+LOADING:60%-----------------------------------------
+LOADING:65%--------------------------------------------
+LOADING:70%-----------------------------------------------
+LOADING:75%--------------------------------------------------
+LOADING:80%----------------------------------------------------
+LOADING:85%------------------------------------------------------
+LOADING:90%---------------------------------------------------------
+LOADING:95%-----------------------------------------------------------
+LOADING:100%----------------------------------------------------------------
+
+
+You CHOSE:
+2) You'll probally lose its so hard, MODE
+ MODE
+
+Aye bud I gotta let old boy here go first he just shot me a 100$
+Wait right here while he makes a selection
+
+Alright my boy, We had 18 pairs of Tims come in this week.
+Looks like he picked out 1 pairs.
+Your up next rememmber second to last person to pick a few pairs wins a new Caddillac.
+The number of TIMS remaining is: 17
+Your up bud!
+
+Choose 1, 2, or 3 pairs of TIMS to take during this round
+How many pairs of TIMS will you be taking:
+3
+
+
+You have selected 3 pairs of TIMS
+Alright looks like you got yourself some fine TIMS
+Now hold up while old boy chooses a few pairs before you go again.
+
+Looks like he picked out 1 pairs.
+Your up next rememmber second to last person to pick a few pairs wins a new Caddillac.
+The number of TIMS remaining is: 13
+Your up bud!
+
+Choose 1, 2, or 3 pairs of TIMS to take during this round
+How many pairs of TIMS will you be taking:
+3
+
+
+You have selected 3 pairs of TIMS
+Alright looks like you got yourself some fine TIMS
+Now hold up while old boy chooses a few pairs before you go again.
+
+Looks like he picked out 1 pairs.
+Your up next rememmber second to last person to pick a few pairs wins a new Caddillac.
+The number of TIMS remaining is: 9
+Your up bud!
+
+Choose 1, 2, or 3 pairs of TIMS to take during this round
+How many pairs of TIMS will you be taking:
+
+5
+
+
+You have selected 5 pairs of TIMS
+ERROR: You chose 5
+Please use select 1, 2, 3 pairs of TIMS
+The number of TIMS remaining is: 9
+Your up bud!
+
+Choose 1, 2, or 3 pairs of TIMS to take during this round
+How many pairs of TIMS will you be taking:
+3
+
+
+You have selected 3 pairs of TIMS
+Alright looks like you got yourself some fine TIMS
+Now hold up while old boy chooses a few pairs before you go again.
+
+Alright looks like you got yourself some fine TIMS
+Now hold up while old boy chooses a few pairs before you go again.
+
+Looks like he picked out 1 pairs.
+Your up next rememmber second to last person to pick a few pairs wins a new Caddillac.
+The number of TIMS remaining is: 5
+Your up bud!
+
+Choose 1, 2, or 3 pairs of TIMS to take during this round
+How many pairs of TIMS will you be taking:
+3
+
+
+You have selected 3 pairs of TIMS
+Alright looks like you got yourself some fine TIMS
+Now hold up while old boy chooses a few pairs before you go again.
+
+Looks like he picked out 1 pairs.
+Your up next rememmber second to last person to pick a few pairs wins a new Caddillac.
+The number of TIMS remaining is: 1
+Your up bud!
+
+Choose 1, 2, or 3 pairs of TIMS to take during this round
+How many pairs of TIMS will you be taking:
+1
+
+
+You have selected 1 pairs of TIMS
+Alright looks like you got yourself some fine TIMS
+Now hold up while old boy chooses a few pairs before you go again.
+
+Looks like he picked out 3 pairs.
+Your up next rememmber second to last person to pick a few pairs wins a new Caddillac.
+
+
+OOP Looks like were out of TIMS.Well Well Well, looks like you lost.
+ See you next week!
